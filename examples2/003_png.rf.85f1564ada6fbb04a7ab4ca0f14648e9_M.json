@@ -1,0 +1,22 @@
+{
+  "target_floor": "M",
+  "button": {
+    "bbox": [
+      209,
+      291,
+      230,
+      322
+    ],
+    "center": [
+      219,
+      306
+    ],
+    "confidence": 0.8388900756835938,
+    "text": "1l"
+  },
+  "speed": {
+    "preprocess": 13.85149999987334,
+    "inference": 85.6090840534307,
+    "postprocess": 14.529958018101752
+  }
+}

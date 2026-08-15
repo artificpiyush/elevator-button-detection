@@ -1,0 +1,17 @@
+# Environments & local settings
+.env
+.venv/
+venv/
+ENV/
+
+# OS & Cache
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Experiment tracking & Temporary runs
+wandb/
+runs/
+data/
+examples/
